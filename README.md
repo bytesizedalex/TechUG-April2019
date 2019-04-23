@@ -11,4 +11,9 @@ While I am happy for people to reference the material I would be grateful if any
 
 File Hashes
 
-To be confirmed.
+Name: Securing Windows 10 - Native Defence Features.pptx
+Size: 19159342 bytes (18 MiB)
+
+* MD5: 1C59266ECDFE23B5FE0D4AA02E5D3C24
+* SHA1: E7BAD688DBE4F494ABC87CB876DB23219CE02289
+* SHA256: 2B0A372734473C5D419FDD5E93C6C3973C623EDA8BC86C2A1BC3582F60CDB88E
